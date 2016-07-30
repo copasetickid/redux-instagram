@@ -1,6 +1,6 @@
 # Learn Redux
 
-A simple React + Redux implementation of an  Instagram clone web application.
+A simple React + Redux implementation of an  Instagram clone web application. This version uses ES6 syntax for React Components rather then the ES5 version found in [Wes Bos tutorial app](https://github.com/wesbos/Learn-Redux-Starter-Files)
 
 
 ## Running
